@@ -1,0 +1,163 @@
+ayush_a#0: +scrap 100
+ayush_a#0: +scrap
+greeone#0: __The current price of Litecoin (LTC) is__ **$64.43**
+ayush_a#0: +ltc
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+greeone#0: fuck
+ayush_a#0: +spam 10 fuck
+ayush_a#0: +spam fuck 1000
+greeone#0: ```
+Termcord v1 commands:
+ = MY PREFIX IS "+"
+~pfp [image_url] - Change the bot's profile picture 
+~wipe - Clears history of the bot
+~ping - Shows the bot's latency
+~scrap - get transcript of the channel
+~toggleactive - Toggle the current channel to the list of active channels
+~toggledm - Toggle if the bot should be active in DM's or not
+~togglegc - Toggle if the bot should be active in group chats or not
+~ignore [user] - Stop a user from using the bot
+~imagine [prompt] - Generate an image from a prompt
+~analyse @user - Analyse a user's messages to provide a personality profile
+~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
+~bal - (Ltcaddress) fetch the balance of ltc adress
+~ltc - Know the latest price of ltc
+~bin - Use this command for finding bin detail
+~readtext - Read the letter written on image and send it 
+~sexw - get nsfw using waifu
+~copyserver [source_server id] [target_SERVER ID]  - It copy the server you need but 
+it needs admin in target server
+~imgs - search in google image and send 
+~gits - Find github users and repositries
+~spam - t + m Use this to spam messages
+Created by TERMINATOR```
+ayush_a#0: +help
+greeone#0: User not found.
+ayush_a#0: +gits p0rnhub
+greeone#0: **GitHub User Information**
+
+**Username:** b1n
+**Name:** Not specified
+**Bio:** Not specified
+**Followers:** 0
+**Following:** 0
+**Public Repositories:** 4
+**GitHub URL:** https://github.com/b1n
+ayush_a#0: +gits b1n
+greeone#0: **GitHub User Information**
+
+**Username:** DiscordBot
+**Name:** Not specified
+**Bio:** Not specified
+**Followers:** 4
+**Following:** 0
+**Public Repositories:** 0
+**GitHub URL:** https://github.com/DiscordBot
+ayush_a#0: +gits discordbot
+greeone#0: +gits discordbot
+greeone#0: Text Channel staff-deals has been created on the target guild.
+greeone#0: Text Channel staff-rules has been created on the target guild.
+greeone#0: Text Channel owners-desk has been created on the target guild.
+ayush_a#0: +wipe
+greeone#0: Text Channel staff-warns has been created on the target guild.
+greeone#0: ```
+Termcord v1 commands:
+ = MY PREFIX IS "+"
+~pfp [image_url] - Change the bot's profile picture 
+~wipe - Clears history of the bot
+~ping - Shows the bot's latency
+~scrap - get transcript of the channel
+~toggleactive - Toggle the current channel to the list of active channels
+~toggledm - Toggle if the bot should be active in DM's or not
+~togglegc - Toggle if the bot should be active in group chats or not
+~ignore [user] - Stop a user from using the bot
+~imagine [prompt] - Generate an image from a prompt
+~analyse @user - Analyse a user's messages to provide a personality profile
+~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
+~bal - (Ltcaddress) fetch the balance of ltc adress
+~ltc - Know the latest price of ltc
+~bin - Use this command for finding bin detail
+~readtext - Read the letter written on image and send it 
+~sexw - get nsfw using waifu
+~copyserver [source_server id] [target_SERVER ID]  - It copy the server you need but 
+it needs admin in target server
+~imgs - search in google image and send 
+~spam - t + m Use this to spam messages
+Created by TERMINATOR```
+ayush_a#0: +help
+ayush_a#0: +purge 1000
+greeone#0: Text Channel setup has been created on the target guild.
+greeone#0: Text Channel staff-annc has been created on the target guild.
+greeone#0: Text Channel discord-updates has been created on the target guild.
+greeone#0: Role ¥ has been created on the target guild.
+greeone#0: Role Owner has been created on the target guild.
+greeone#0: Role & has been created on the target guild.
+greeone#0: Role Creator has been created on the target guild.
+greeone#0: Role Baby has been created on the target guild.
+greeone#0: Role $ has been created on the target guild.
+greeone#0: Role Gold Services has been created on the target guild.
+greeone#0: Role Flantic has been created on the target guild.
+greeone#0: Role Administrator has been created on the target guild.
+greeone#0: Role Head of Staff has been created on the target guild.
+greeone#0: Role Management Team has been created on the target guild.
+greeone#0: Role carl-bot has been created on the target guild.
+greeone#0: Role Ticket Tool has been created on the target guild.
+greeone#0: Role Winner of the Week has been created on the target guild.
+greeone#0: Role Head Moderator has been created on the target guild.
+greeone#0: Role Moderator has been created on the target guild.
+greeone#0: Role Ticket Support has been created on the target guild.
+greeone#0: Role Suspended has been created on the target guild.
+greeone#0: Role Restricted has been created on the target guild.
+greeone#0: Role On break has been created on the target guild.
+greeone#0: Role Sr Middleman has been created on the target guild.
+greeone#0: Role Sr Exchanger has been created on the target guild.
+greeone#0: Role Jr Middleman has been created on the target guild.
+greeone#0: Role Jr Exchanger has been created on the target guild.
+greeone#0: Role Tr Middleman has been created on the target guild.
+greeone#0: Role Tr Exchanger has been created on the target guild.
+greeone#0: Role Crypto Transaction has been created on the target guild.
+greeone#0: Role INR Transcaction has been created on the target guild.
+greeone#0: Role Paypal (Exch) has been created on the target guild.
+greeone#0: Role Cashapp (Exch) has been created on the target guild.
+greeone#0: Role INR 2 CRYTPO has been created on the target guild.
+greeone#0: Role CRYPTO 2 INR has been created on the target guild.
+greeone#0: Role Retired Admins has been created on the target guild.
+greeone#0: Role Retired Staff has been created on the target guild.
+greeone#0: Role Team Gold has been created on the target guild.
+greeone#0: Role Invite Management has been created on the target guild.
+greeone#0: Role Verified has been created on the target guild.
+greeone#0: Role Scammer has been created on the target guild.
+greeone#0: Role DWC has been created on the target guild.
+greeone#0: Role Donaters has been created on the target guild.
+greeone#0: Role VIP has been created on the target guild.
+greeone#0: Role Active Clients has been created on the target guild.
+greeone#0: Role Role Support has been created on the target guild.
+greeone#0: Role Clients has been created on the target guild.
+greeone#0: Role Family has been created on the target guild.
+greeone#0: Role Xenon has been created on the target guild.
+greeone#0: Role Apollo Bot has been created on the target guild.
+greeone#0: Role Mimu has been created on the target guild.
+greeone#0: Role Server Booster has been created on the target guild.
+greeone#0: Role Shiba has been created on the target guild.
+greeone#0: Role Axter has been created on the target guild.
+greeone#0: Role RepiFy has been created on the target guild.
+greeone#0: Role Gold Service has been created on the target guild.
+greeone#0: Role Gold Service ™ has been created on the target guild.
+ayush_a#0: +copyserver 1138691358513713253 1159025090688716840
+ayush_a#0: termi how r u
+greeone#0: Generated image for <@1141030798863118436> with prompt `big boobsssssy`
+ayush_a#0: +imagine big boobsssssy
+ayush_a#0: +copyserver 1138691358513713253 1159025090688716840
+ayush_a#0: 1138691358513713253
+ayush_a#0: https://discord.gg/F8hwbQN7
+ayush_a#0: <a:ADanceyDance:1151726309106528286>
+greeone#0: https://feblilacmat.com/cdn/shop/products/9_04690ecc-4c29-4a22-9850-2fc2b12281c0.jpg?v=1681487296&width=1946
+ayush_a#0: +imgs naked boobs

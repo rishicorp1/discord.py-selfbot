@@ -1,0 +1,8 @@
+curl_cffi
+fake_useragent
+flask
+asyncio
+python-dotenv
+pyYAML
+requests
+bardapi
