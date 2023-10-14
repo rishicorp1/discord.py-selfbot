@@ -2,28 +2,22 @@
 
 This is a [Python](https://www.python.org)-based Discord selfbot using the `discord.py-self` library. The selfbot automatically responds to messages that uses it's trigger word using either ChatGPT or BARD and has image generation using an external endpoint, **all for completely free**. It functions as a normal Discord bot, just on a real Discord account, allowing other people to talk to it within DMs, servers and even group chats without you needing to invite a bot or add the bot to the server - making it seem like a real user to others.
 
-This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/) by [MishalHossin](https://github.com/mishalhossin/) but was heavily edited by [Najmul190](https://github.com/najmul190) to work as a selfbot rather than a Discord bot.
+This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/) by [MishalHossin](https://github.com/mishalhossin/) but was heavily edited by [Najmul190](https://github.com/najmul190) to work as a selfbot rather than a Discord bot.After that it was heavily edited by [rishicorp1](https://github.com/rishicorp1) !!
 
 ### <strong> I take no responsibility for any actions taken against your account for using these selfbots, or how users use my open source code.</strong>
 
 ### <strong>Using this on a user account is prohibited by the [Discord TOS](https://discord.com/terms) and can lead to your account getting banned in very rare cases.</strong>
-
-<p float="left">
-  <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-4/451627446941515817.png"/>
-  <img src="https://lanyard.cnrad.dev/api/1025245410224263258?theme=dark&bg=171515&borderRadius=5px&animated=true&idleMessage=15%20year%20old%20solo%20dev" al/> 
-</p>
-
 # Preview of image responses:
 
 ![image](https://user-images.githubusercontent.com/91066601/236717834-e3f6939f-3641-425c-b9f7-424a38f86ac4.png)
 
 # Preview of text responses:
 
-![image](https://cdn.discordapp.com/attachments/685944147638485062/1107081044219408444/image.png)
+![image](https://media.discordapp.net/attachments/1158446581721337877/1162558351385833563/image.png?ex=653c5fd6&is=6529ead6&hm=244175cda74c02f8dac556a36dd8a3fb7e9885e3d54a09a653cfb813bb037d58&=)
 
 # Preview of Image Generation:
 
-![image](https://media.discordapp.net/attachments/715284506289897513/1113931350039343104/image.png?width=748&height=391)
+![image](https://cdn.discordapp.com/attachments/1157235534641496084/1162554826715054110/image.png?ex=653c5c8d&is=6529e78d&hm=e0899c3c597ee464233fbaa726878b4f1a4523535283357ac37eca2f49b40115&)
 
 # Features
 
@@ -42,23 +36,35 @@ This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Dis
 
 ## Commands
 
-- ~model [BARD / GPT] - Change the model the bot uses to generate responses
-- ~wipe - Clears history of the bot
-- ~ping - Shows the bot's latency
-- ~toggleactive [channel] - Toggle the current channel to the list of active channels
-- ~toggledm - Toggle if the bot should be active in DM's or not
-  ~ togglegc - Toggle if the bot should be active in group chats or not
-- ~ignore @user - Ignore a user from using the bot
-- ~imagine [prompt] - Generate an image from a prompt
-- ~styles - List all the styles available for image generation
-- ~analyse @user - Analyse a user's messages to provide a personality profile
+~pfp [image_url] - Change the bot's profile picture 
+~wipe - Clears history of the bot
+~ping - Shows the bot's latency
+~scrap - get transcript of the channel
+~toggleactive - Toggle the current channel to the list of active channels
+~toggledm - Toggle if the bot should be active in DM's or not
+~togglegc - Toggle if the bot should be active in group chats or not
+~ignore [user] - Stop a user from using the bot
+~imagine [prompt] - Generate an image from a prompt
+~analyse @user - Analyse a user's messages to provide a personality profile
+~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
+~bal - (Ltcaddress) fetch the balance of ltc adress
+~ltc - Know the latest price of ltc
+~readtext - Read the letter written on image and send it 
+~sexw - get nsfw using waifu
+~sext - get nsfw of trap
+~copyserver [source_server id] [target_SERVER ID]  - It copy the server you need but 
+it needs admin in target server
+~imgs - search in google image and send 
+~gits - Find github users and repositries
+~spam - t + m Use this to spam messages
+~ping - Shows the bot's latency
 
 # Steps to install and run:
 
 ### Step 1: Git clone repository
 
 ```
-git clone https://github.com/najmul190/Discord-AI-Selfbot
+git clone 
 ```
 
 ### Step 2: Changing directory to cloned directory
@@ -99,36 +105,13 @@ SELFBOT_ID=ACCOUNT_ID_GOES_HERE
 TRIGGER=TRIGGER_WORD
 PREFIX=~
 ```
-
-### Step 6: Install all the dependencies and run the bot
-
-Windows:
-
-- Simply open `run.bat` if you're on Windows. This will install all pre-requisites and run the bot as well.
-
-- If `run.bat` doesn't work, then run `cd the\bot\files\directory` to change directory to the bot files directory
-- Create a virtual environment by running `python -m venv bot-env`
-- Activate the virtual environment by running `bot-env\Scripts\activate.bat`
-- Run `pip install -r requirements.txt` to install all the dependencies
-- Install discord.py-self using `pip install -U discord.py-self`
-- Run the bot using `python3 main.py`
-
-Linux:
-
-- If you're on Linux, then run `cd the\bot\files\directory` to change directory to the bot files directory
-- Create a virtual environment by running `python3 -m venv bot-env`
-- Activate the virtual environment by running `source bot-env/bin/activate`
-- Run `pip install -r requirements.txt` to install all the dependencies
-- Install discord.py-self using `pip install -U discord.py-self`
-- Run the bot using `python3 main.py`
-
 # How to run on Mobile + Keep online 24/7
 
-[![Run on repl.it](https://media.discordapp.net/attachments/1119017121960185916/1121144333047967904/image.png)](https://repl.it/github/Najmul190/Discord-AI-Selfbot)
+[![Run on repl.it]()]()
 
 - Click on the button above to create an account and run the bot on repl.it
 - Click on `Import from GitHub`
-  ![image](https://media.discordapp.net/attachments/918997350238797855/1109812776857255996/image.png?width=651&height=321)
+  ![image]()
 - Do Step 3 and 4 from above to get the information
 - Add the following as a secret each, along with the corresponding value: (trigger value should not be in quotes)
 
@@ -141,7 +124,7 @@ TRIGGER
 PREFIX
 ```
 
-![image](https://cdn.discordapp.com/attachments/918997350238797855/1129708379208691803/image.png)
+![image]()
 
 - Then click on the `Run` button, which will start to install all dependencies and then run your selfbot.
 - Start talking to your new friend!
@@ -154,3 +137,5 @@ PREFIX
 - To see all commands use **~help**
 - Bear in mind that the bot will only respond to **other accounts** and not itself, including any commands.
 - You must also set a trigger word within the `.env`, this is the word that the bot will respond to. For example, if you set the trigger word to `John`, people must say "Hey `John`, how are you today?" for the bot to respond.
+- IF YOU WANT TO MAKE MORE CHANGES YOU CAN DO IN INSTRUCTIONS.TXT IT HELPS TO CUSTOMISE BOT BEHABIER
+"# discord.py-selfbot" 
