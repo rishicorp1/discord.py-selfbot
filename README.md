@@ -3,7 +3,7 @@
 This is a [Python](https://www.python.org)-based Discord selfbot using the `discord.py-self` library. The selfbot automatically responds to messages that uses it's trigger word using either ChatGPT or BARD and has image generation using an external endpoint, **all for completely free**. It functions as a normal Discord bot, just on a real Discord account, allowing other people to talk to it within DMs, servers and even group chats without you needing to invite a bot or add the bot to the server - making it seem like a real user to others.
 
 This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free/) by [MishalHossin](https://github.com/mishalhossin/) but was heavily edited by [Najmul190](https://github.com/najmul190) to work as a selfbot rather than a Discord bot.After that it was heavily edited by [rishicorp1](https://github.com/rishicorp1) !!
-
+### <strong> This repositry is for educational purpose</strong>
 ### <strong> I take no responsibility for any actions taken against your account for using these selfbots, or how users use my open source code.</strong>
 
 ### <strong>Using this on a user account is prohibited by the [Discord TOS](https://discord.com/terms) and can lead to your account getting banned in very rare cases.</strong>
@@ -32,6 +32,7 @@ This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Dis
 - [x] Image Generation: Use the `~imagine` command to generate an ima-rom a prompt using AI.
 - [x] BARD Model: Select the BARD model to start using Google's own model, which has up-to-date information and is more accurate, but cannot hold a conversation as well as ChatGPT or follow instructions.
 - [x] Secure Credential Management: Keep your credentials secure using environment variables.
+- [x] Other fetures you can see in commands.
 - [x] Crafted with Care: Made with lots of love and attention to detail.
 
 # Bot Commands
@@ -72,7 +73,7 @@ git clone
 ### Step 2: Changing directory to cloned directory
 
 ```
-cd Discord-AI-Selfbot
+cd discord.py-selfbot
 ```
 
 ### Step 3: Getting your Discord token
@@ -140,4 +141,19 @@ PREFIX
 - Bear in mind that the bot will only respond to **other accounts** and not itself, including any commands.
 - You must also set a trigger word within the `.env`, this is the word that the bot will respond to. For example, if you set the trigger word to `John`, people must say "Hey `John`, how are you today?" for the bot to respond.
 - IF YOU WANT TO MAKE MORE CHANGES YOU CAN DO IN INSTRUCTIONS.TXT IT HELPS TO CUSTOMISE BOT BEHABIER
-"# discord.py-selfbot" 
+"# discord.py-selfbot"
+
+# Cool Contributions Always Welcome! 🚀
+
+Welcome to our open-source project! We appreciate your interest and encourage you to contribute. Whether it's code, bug reports, feature suggestions, or documentation improvements, your input is valued.
+
+## How to Contribute
+
+1. Fork the repository
+2. Create a new branch (e.g., `feature-new-feature`)
+3. Make your changes and commit them
+4. Push to your branch
+5. Create a pull request
+
+Happy coding! 🎉
+
