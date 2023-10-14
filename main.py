@@ -446,28 +446,7 @@ async def toggleactive(ctx):
                     f"{ctx.channel.mention} has been added to the list of active channels."
                 )
 
-@bot.command()
-async def bin(ctx, bin_number: str):
-    url = f"https://lookup.binlist.net/{bin_number}"
-    response = requests.get(url)
 
-    if response.status_code == 200:
-        data = response.json()
-
-        if "bank" in data:
-            issuer = data["bank"]["name"]
-        else:
-            issuer = "Unknown"
-
-        if "country" in data:
-            country = data["country"]["name"]
-        else:
-            country = "Unknown"
-
-        await ctx.send(f"Issuer: {issuer}\nCountry: {country}")
-    else:
-        await ctx.send("Invalid BIN or an error occurred.")
-API_ASS = "K84396224988957"
 @bot.command()
 async def copyserver(ctx, source_guild_id: int, target_guild_id: int):
     source_guild = bot.get_guild(source_guild_id)
@@ -707,7 +686,6 @@ Termcord v1 commands:
 ~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
 ~bal - (Ltcaddress) fetch the balance of ltc adress
 ~ltc - Know the latest price of ltc
-~bin - Use this command for finding bin detail
 ~readtext - Read the letter written on image and send it 
 ~sexw - get nsfw using waifu
 ~sext - get nsfw of trap
@@ -717,7 +695,7 @@ it needs admin in target server
 ~gits - Find github users and repositries
 ~spam - t + m Use this to spam messages
 ~ping - Shows the bot's latency
-Created by TERMINATOR```
+Created by TERMINATOR AFTER NAJIMUL```
 """
 
     await ctx.send(help_text)
