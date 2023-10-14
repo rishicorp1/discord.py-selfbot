@@ -34,30 +34,32 @@ This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Dis
 - [x] Secure Credential Management: Keep your credentials secure using environment variables.
 - [x] Crafted with Care: Made with lots of love and attention to detail.
 
-## Commands
+# Bot Commands
 
-~pfp [image_url] - Change the bot's profile picture 
-~wipe - Clears history of the bot
-~ping - Shows the bot's latency
-~scrap - get transcript of the channel
-~toggleactive - Toggle the current channel to the list of active channels
-~toggledm - Toggle if the bot should be active in DM's or not
-~togglegc - Toggle if the bot should be active in group chats or not
-~ignore [user] - Stop a user from using the bot
-~imagine [prompt] - Generate an image from a prompt
-~analyse @user - Analyse a user's messages to provide a personality profile
-~model [BARD / GPT] - Change whether the bot uses BARD or ChatGPT
-~bal - (Ltcaddress) fetch the balance of ltc adress
-~ltc - Know the latest price of ltc
-~readtext - Read the letter written on image and send it 
-~sexw - get nsfw using waifu
-~sext - get nsfw of trap
-~copyserver [source_server id] [target_SERVER ID]  - It copy the server you need but 
-it needs admin in target server
-~imgs - search in google image and send 
-~gits - Find github users and repositries
-~spam - t + m Use this to spam messages
-~ping - Shows the bot's latency
+Welcome to the world of endless possibilities! Here are the commands at your disposal:
+
+- `~pfp [image_url]` - Change the bot's profile picture 
+- `~wipe` - Clears history of the bot
+- `~ping` - Shows the bot's latency
+- `~scrap` - Get transcript of the channel
+- `~toggleactive` - Toggle the current channel to the list of active channels
+- `~toggledm` - Toggle if the bot should be active in DM's or not
+- `~togglegc` - Toggle if the bot should be active in group chats or not
+- `~ignore [user]` - Stop a user from using the bot
+- `~imagine [prompt]` - Generate an image from a prompt
+- `~analyse @user` - Analyse a user's messages to provide a personality profile
+- `~model [BARD / GPT]` - Change whether the bot uses BARD or ChatGPT
+- `~bal (Ltcaddress)` - Fetch the balance of ltc address
+- `~ltc` - Know the latest price of ltc
+- `~readtext` - Read the letter written on image and send it 
+- `~sexw` - Get nsfw using waifu
+- `~sext` - Get nsfw of trap
+- `~copyserver [source_server id] [target_SERVER ID]`  - It copies the server you need but it needs admin in target server
+- `~imgs` - Search in google image and send 
+- `~gits` - Find github users and repositories
+- `~spam t + m` - Use this to spam messages
+- `~ping` - Shows the bot's latency
+
 
 # Steps to install and run:
 
