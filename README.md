@@ -19,6 +19,12 @@ This bot was originally [Discord-AI-Chatbot](https://github.com/mishalhossin/Dis
 
 ![image](https://cdn.discordapp.com/attachments/1157235534641496084/1162554826715054110/image.png?ex=653c5c8d&is=6529e78d&hm=e0899c3c597ee464233fbaa726878b4f1a4523535283357ac37eca2f49b40115&)
 
+## Recommended IDE: PyCharm
+
+We highly recommend using PyCharm as the integrated development environment (IDE) for this project. PyCharm offers a range of features that can greatly enhance the development process, including powerful code navigation, intelligent code completion, and excellent debugging capabilities.
+
+To get started, you can download PyCharm from [here](https://www.jetbrains.com/pycharm/). Once installed, open the project folder in PyCharm to start working on it.
+
 # Features
 
 - [x] Discord Selfbot: Runs on a genuine Discord account, allowing you to use it without even needing to invite a bot.
